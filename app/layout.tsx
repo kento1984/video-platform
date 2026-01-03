@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "動画配信プラットフォーム",
   description: "Udemyクローンのような動画配信プラットフォーム",
+  verification: {
+    google: "2zx6Ufa1vztE-AEZ1F6m8EvWFsFQVE0cEnoz3_6rXxE",
+  },
 };
 
 export default function RootLayout({
